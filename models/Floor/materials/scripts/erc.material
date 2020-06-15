@@ -1,0 +1,14 @@
+material Floor/erc
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture ../textures/erc.png
+				scale 1 1
+			}
+		}
+	}
+}
